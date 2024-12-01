@@ -2,20 +2,20 @@
 [![MasterHead](https://imgs.search.brave.com/phELP582YysHIyAJSfDvU0dPvejK19phXDaY67DT328/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5pc3RvY2twaG90/by5jb20vaWQvMTEy/OTE1NjUxMy92ZWN0/b3Ivd2ViLWRldmVs/b3BtZW50LWxpbmUt/aWxsdXN0cmF0aW9u/LWJhbm5lci5qcGc_/cz02MTJ4NjEyJnc9/MCZrPTIwJmM9Xzd3/Yi14LTJWRDRWNFc0/bzNmRXFtMEtuWWhR/LVhwUGdLVTZzanRI/NVFKYz0)](https://github.com/aEmirturkoglu)
 
 <h1 align="center">Hi 👋, I'm Emir Turkoglu</h1>
-<h3 align="center">A devoted passionate Game developer (Unity, C#) from Turkey</h3>
+<h3 align="center">A devoted passionate WordPress Developer from Turkey</h3>
 <img align="center" alt="coding" width="1100" src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.webp">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aemirturkoglu&label=Profile%20views&color=0e75b6&style=flat" alt="aemirturkoglu" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aemirturkoglu" alt="aemirturkoglu" /></a> </p>
 
-- 🔭 I’m currently working on **2d Main(Single) Tower Defence Game**
+- 🔭 I’m currently working on **Personal Portfolio**
 
-- 🌱 I’m currently learning or will learn **Unity, C#, PixelArt**
+- 🌱 I’m currently learning **WordPress** and maybe PHP
 
-- 👨‍💻 All of my projects are available at [will have a portfolio website soon.](will have a portfolio website soon.)
+- 👨‍💻 All of my projects are available at [will have a portfolio website soon.]
 
-- 💬 Ask me about **Unity, C#, MERN Stack (React excluded) and a little of C, C++, Kotlin, Microsoft SQL**
+- 💬 Ask me about **Unity, C#, MERN Stack (React excluded) and a little of Kotlin**
 
 - 📫 How to reach me **turkogluemir326@gmail.com**
 
