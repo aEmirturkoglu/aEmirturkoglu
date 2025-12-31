@@ -51,15 +51,19 @@
   <a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
   <a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
 </p>
-
 ---
 
 ### 📊 System Performance Statistics
 
-<p align="center">
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aemirturkoglu&show_icons=true&locale=en&layout=compact&theme=dark" alt="aemirturkoglu" />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=aemirturkoglu&show_icons=true&locale=en&theme=dark" alt="aemirturkoglu" />
-</p>
+<div align="center">
+  <p>
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=aemirturkoglu&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true" alt="aemirturkoglu" />
+    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=aemirturkoglu&show_icons=true&locale=en&theme=dark&hide_border=true" alt="aemirturkoglu" />
+  </p>
+  <p>
+    <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=aemirturkoglu&theme=dark&hide_border=true" alt="aemirturkoglu" />
+  </p>
+</div>
 
 ---
 
@@ -72,9 +76,12 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/System_Status-Stable-success?style=for-the-badge" />
+  <br>
   <p><i>"The code is the law, but the hardware is the cage."</i></p>
+  
+  <p align="center"> 
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+      <img src="https://github-profile-trophy.vercel.app/?username=aemirturkoglu&theme=dark&margin-w=15&no-bg=true" alt="aemirturkoglu" />
+    </a> 
+  </p>
 </div>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aemirturkoglu&show_icons=true&locale=en" alt="aemirturkoglu" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aemirturkoglu&" alt="aemirturkoglu" /></p>
