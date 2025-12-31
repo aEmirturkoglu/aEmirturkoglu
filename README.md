@@ -53,15 +53,27 @@
 </p>
 ---
 
+---
+
 ### 📊 System Performance Statistics
 
 <div align="center">
+  <!-- Trophies: Senior/Mid rütbeni gösteren kısım -->
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=aemirturkoglu&theme=dracula&no-bg=true&column=7&margin-w=15" alt="GitHub Trophies" />
+  </a>
+
+  <br/>
+
+  <!-- Stats & Languages: Başlıklar gizlendi (hide_title=true) -->
   <p>
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=aemirturkoglu&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true" alt="aemirturkoglu" />
-    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=aemirturkoglu&show_icons=true&locale=en&theme=dark&hide_border=true" alt="aemirturkoglu" />
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=aemirturkoglu&show_icons=true&locale=en&layout=compact&theme=dracula&hide_border=true&hide_title=true" alt="Top Languages" />
+    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=aemirturkoglu&show_icons=true&locale=en&theme=dracula&hide_border=true&hide_title=true" alt="GitHub Stats" />
   </p>
+
+  <!-- Streak: Çalışma sürekliliğini gösterir -->
   <p>
-    <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=aemirturkoglu&theme=dark&hide_border=true" alt="aemirturkoglu" />
+    <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=aemirturkoglu&theme=dracula&hide_border=true" alt="GitHub Streak" />
   </p>
 </div>
 
@@ -76,12 +88,6 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/System_Status-Stable-success?style=for-the-badge" />
-  <br>
+  <br/>
   <p><i>"The code is the law, but the hardware is the cage."</i></p>
-  
-  <p align="center"> 
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-      <img src="https://github-profile-trophy.vercel.app/?username=aemirturkoglu&theme=dark&margin-w=15&no-bg=true" alt="aemirturkoglu" />
-    </a> 
-  </p>
 </div>
