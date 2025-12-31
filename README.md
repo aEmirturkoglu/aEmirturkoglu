@@ -5,7 +5,7 @@
 
 [![MasterHead](https://images.unsplash.com/photo-1518770660439-4636190af475?ixlib=rb-4.0.3&auto=format&fit=crop&w=1100&q=80)](https://github.com/aEmirturkoglu)
 
-*"Bridging the gap between heavy industrial machinery and advanced logical verification."*
+*"Bridging the gap between heavy industrial machinery and deterministic logical verification."*
 
 <img src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.webp" width="800" alt="Netrunner Coding">
 
@@ -15,6 +15,12 @@
   <img src="https://img.shields.io/badge/Logic-Determinisitc-blue?style=flat-square" alt="Determinisitc">
 </p>
 
+<p align="center"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=aemirturkoglu&theme=dark&margin-w=15" alt="aemirturkoglu" />
+  </a> 
+</p>
+
 </div>
 
 ---
@@ -22,7 +28,7 @@
 ### 🔭 Current Mission & Intelligence
 - **High-Speed Automation:** Developing deterministic **Circular Buffer Sorter** algorithms for 1000+ unit systems (Siemens S7-1500).
 - **Cyber-Physical Security:** Implementing **Hardware Binding (SMC Serial Locking)** and advanced code obfuscation to protect Industrial IP.
-- **Local Inference Engines:** Quantizing and deploying **Local Verification Models (Nvidia Cascade 8B / RNJ-1)** for real-time SCL logic auditing.
+- **Local Verification Engines:** Deploying **Offline Logic Analysis Tools** for real-time SCL code auditing and error detection.
 - **Process Emulation:** Validating complex industrial processes via **Factory I/O** and **Siemens PLCSIM Advanced**.
 
 ---
@@ -33,7 +39,7 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Siemens-TIA_Portal_V19-006487?style=for-the-badge&logo=siemens&logoColor=white" />
   <img src="https://img.shields.io/badge/SCL-Structured_Text-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Inference-INT4_AWQ-8A2BE2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Inference-Determinsitic-8A2BE2?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Linux-Qubes_OS-384352?style=for-the-badge&logo=qubesos&logoColor=white" />
 </p>
 
