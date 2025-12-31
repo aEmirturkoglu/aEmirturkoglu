@@ -74,3 +74,7 @@
   <img src="https://img.shields.io/badge/System_Status-Stable-success?style=for-the-badge" />
   <p><i>"The code is the law, but the hardware is the cage."</i></p>
 </div>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aemirturkoglu&show_icons=true&locale=en" alt="aemirturkoglu" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aemirturkoglu&" alt="aemirturkoglu" /></p>
